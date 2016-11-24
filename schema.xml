@@ -1,0 +1,14 @@
+<schema dbmsId="mysql_id">
+	<column comment="" default="" key="false" label="id" length="11" nullable="true"
+	originalDbColumnName="id" originalLength="-1" pattern="" precision="-1"
+	talendType="id_Integer" type="INT"/>
+	<column comment="" default="" key="false" label="name" length="50" nullable="true"
+	originalDbColumnName="name" originalLength="-1" pattern="" precision="-1"
+	talendType="id_String" type="VARCHAR"/>
+	<column comment="" default="" key="false" label="salary" length="" nullable="true"
+	originalDbColumnName="salary" originalLength="-1" pattern="" precision="-1"
+	talendType="id_Float" type="FLOAT"/>
+	<column comment="" default="" key="false" label="address" length="100" nullable="true"
+	originalDbColumnName="address" originalLength="-1" pattern="" precision="-1"
+	talendType="id_String" type="VARCHAR"/>
+</schema>
